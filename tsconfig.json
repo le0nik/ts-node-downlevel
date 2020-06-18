@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "lib": ["es5", "es2015.iterable"],
+    "noEmit": true,
+    "strictNullChecks": true,
+    "downlevelIteration": true
+  }
+}

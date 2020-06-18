@@ -1,0 +1,14 @@
+{
+  "name": "ts-node-downlevel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsc -p tsconfig.json"
+  },
+  "author": "Leonid Nikiforenko <leo.nikiforenko@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "3.9.5"
+  }
+}
